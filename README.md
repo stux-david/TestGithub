@@ -1,2 +1,2 @@
 # TestGithub
-Aplicacion web con apis de Github
+Aplicacion web con API de Github
